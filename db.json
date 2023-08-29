@@ -30,6 +30,7 @@
     {
       "id": 4,
       "categoryName": "frontend",
+      "categoryDisplayName": "Front End",
       "title": "Como usar Async/Await? Promises no JavaScript? ",
       "description": "Eu vim falando desse video a um tempo já e ele chegou! Finalmente você vai parar de sofrer com async/await entendendo na prática como usar esses recursos do JavaScript vendo a essência, bora ver?",
       "videoImgLink": "https://i.ytimg.com/vi/q28lfkBd9F4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI9Q1UsDKCaoodrFCRODWQLIDT5A",
